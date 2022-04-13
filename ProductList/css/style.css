@@ -1,0 +1,172 @@
+
+.container{
+    margin-top: 100px;
+}
+
+.newarrival{
+    background:primary-color;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.stars{
+    height: 15px;
+    
+    
+}
+.price{
+    color: rgb(17, 17, 16);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 3px;
+}
+.input{
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+}
+.cart{
+    background: primary-color;
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.btn btn-default cart{
+  background: #0051ff;
+}
+.about{
+  align-items: center;
+  size: 10px;
+}
+
+.footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0051ff;
+    color: white;
+    text-align: center;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+.choice{
+  text-align: center;
+  color:#0051ff;
+}
+  .pm_sec3 {
+    padding: 0 50px 80px;
+    max-width: 1233px;
+    margin: 80px auto 0;
+}
+
+.Image--lazyLoaded.Image--fadeIn {
+  opacity: 1;
+}
+.Image--fadeIn {
+  opacity: 0;
+  transition: opacity .3s ease;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-style: none;
+  vertical-align: top;
+}
+.innerpmsec3 {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  background: #f9f9f9;
+}
+.pm_sec3 .pm_sec3_img {
+  flex: 0 0 50%;
+}
+.pm_sec3 .pm_sec3_text {
+  flex: 0 0 50%;
+  padding-left: 83px;
+  padding-right: 95px;
+}
+div#shopify-section-product-metafield {
+  background: #fff;
+}
+
+
+
+.pm_sec1 {
+  position: relative;
+}
+.pm_sec1_img img {
+  width: 100%;
+  height: auto;
+}
+
+.Image--fadeIn {
+  opacity: 0;
+  transition: opacity .3s ease;
+}
+.pm_sec1_text {
+  position: absolute;
+  left: 80px;
+  top: 50%;
+  width: 28%;
+  transform: translateY(-50%);
+}
+
+
+
+.pm_sec2 {
+  padding: 80px 50px 0;
+  max-width: 1233px;
+  margin: 0 auto;
+}
+.pm_sec2 .pm_sec2_img {
+  flex: 0 0 50%;
+}
+.pm_sec2 .pm_sec2_text {
+  flex: 0 0 50%;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.innerpmsec2 {
+  display: flex;
+  align-items: center;
+  background: #d1e8e2;
+}
+
+  
+
+
+
+
